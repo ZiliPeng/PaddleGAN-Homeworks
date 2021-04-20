@@ -781,12 +781,3 @@ log_config:
 snapshot_config:
   interval: 1000
 ```  
-
-## GitHub 作业
-
-作业链接：https://github.com/ZiliPeng/PaddleGAN-Homeworks/blob/main/homework5.md
-
-requirements.txt中ppgan的截图
-
-![](https://ai-studio-static-online.cdn.bcebos.com/c91009bcbd7a4a6f843406922e6a15d5bb303d95f9d44b4192f16f383692bbb1)
-
