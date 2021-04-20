@@ -171,7 +171,7 @@ plt.show()
 
 
 
-![png](output_8_1.png)
+![png](images/output_8_1.png)
 
 
 ### 选择超分模型
