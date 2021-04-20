@@ -620,9 +620,9 @@ PaddleGAN中提供的超分模型包括RealSR, ESRGAN, LESRCNN, DRN等，详情�
 *DRN_PSNR*结果可视化
 | 低分辨率 | DRNS_PSNR | GT |
 |---|---|---|
-|![](./image/Anime_419_lq.png)|![](./image/Anime_419_output.png)|![](./image/Anime_419_gt.png)|
-|![](./image/Anime_401_lq.png)|![](./image/Anime_401_output.png)|![](./image/Anime_401_gt.png)|
-|![](./image/Anime_407_lq.png)|![](./image/Anime_407_output.png)|![](./image/Anime_407_gt.png)|
+|![](images/Anime_419_lq.png)|![](images/Anime_419_output.png)|![](./image/Anime_419_gt.png)|
+|![](images/Anime_401_lq.png)|![](images/Anime_401_output.png)|![](./image/Anime_401_gt.png)|
+|![](images/Anime_407_lq.png)|![](images/Anime_407_output.png)|![](./image/Anime_407_gt.png)|
 
 | 低分辨率 | ESRGAN_PSNR | ESRGAN_GAN | GT |
 |---|---|---|---|
