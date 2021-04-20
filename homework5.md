@@ -618,7 +618,7 @@ PaddleGAN中提供的超分模型包括RealSR, ESRGAN, LESRCNN, DRN等，详情�
 | **DRN_PSNR**  | 卡通画超分数据集 | 50000 | 15h | 25.4905 | 0.7619 |[DRN_PSNR](./pretrained_model/DRN_PSNR_50000_weight.pdparams)|
 
 *DRN_PSNR*结果可视化
-| 低分辨率 | DRNS_PSNR | GT |
+| 低分辨率 | DRN_PSNR | GT |
 |---|---|---|
 |![](images/Anime_419_lq.png)|![](images/Anime_419_output.png)|![](images/Anime_419_gt.png)|
 |![](images/Anime_401_lq.png)|![](images/Anime_401_output.png)|![](images/Anime_401_gt.png)|
